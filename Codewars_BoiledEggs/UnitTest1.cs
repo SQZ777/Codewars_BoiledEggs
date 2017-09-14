@@ -36,6 +36,12 @@ namespace BoiledEggs
             cookingTimeResult(10,10);
         }
 
+        [TestMethod]
+        public void Input_11_Should_Be_15()
+        {
+            cookingTimeResult(15,11);
+        }
+
         private static void cookingTimeResult(int expected, int input)
         {
             //act
@@ -49,8 +55,7 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            var ceilNum = Math.Ceiling(Convert.ToDouble(input) / 5);
-            return (int)ceilNum * 5;
+            return (int)Math.Ceiling(Convert.ToDouble(input) / 5) * 5;
         }
 
     }
