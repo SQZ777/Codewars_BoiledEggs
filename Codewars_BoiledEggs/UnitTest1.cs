@@ -41,6 +41,7 @@ namespace BoiledEggs
         {
             cookingTimeResult(15,11);
         }
+        
 
         private static void cookingTimeResult(int expected, int input)
         {
@@ -55,7 +56,7 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            return (int)Math.Ceiling(Convert.ToDouble(input) / 5) * 5;
+            return (int)Math.Ceiling(Convert.ToDouble(input) / 8) * 5;
         }
 
     }
