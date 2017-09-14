@@ -7,7 +7,7 @@ namespace BoiledEggs
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Input_0_Should_Be_0()
         {
             //arrange
             var input = 0;
