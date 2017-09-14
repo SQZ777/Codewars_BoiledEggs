@@ -17,6 +17,18 @@ namespace BoiledEggs
             //assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void Input_1_Should_Be_5()
+        {
+            //arrange
+            var input = 1;
+            var expected = 5;
+            //act
+            var actual = Kata.CookingTime(input);
+            //assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 
     public class Kata
