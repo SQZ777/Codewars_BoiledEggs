@@ -23,7 +23,7 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            throw new NotImplementedException();
+            return 0;
         }
     }
 }
