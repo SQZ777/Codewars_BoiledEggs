@@ -37,10 +37,8 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            var result = 0;
             var ceilNum = Math.Ceiling(Convert.ToDouble(input) / 5);
-            result = (int)ceilNum * 5;
-            return result;
+            return (int)ceilNum * 5;
         }
 
     }
