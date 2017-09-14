@@ -27,22 +27,26 @@ namespace BoiledEggs
         [TestMethod]
         public void Input_5_Should_Be_5()
         {
-            cookingTimeResult(5,5);
+            cookingTimeResult(5, 5);
         }
 
         [TestMethod]
         public void Input_10_Should_Be_10()
         {
-            cookingTimeResult(10,10);
+            cookingTimeResult(10, 10);
         }
 
         [TestMethod]
         public void Input_11_Should_Be_10()
         {
-            cookingTimeResult(10,11);
+            cookingTimeResult(10, 11);
         }
-        
 
+        [TestMethod]
+        public void Input_8_Should_5()
+        {
+            cookingTimeResult(5, 8);
+        }
 
         private static void cookingTimeResult(int expected, int input)
         {
