@@ -9,22 +9,22 @@ namespace BoiledEggs
         [TestMethod]
         public void Input_0_Should_Be_0()
         {
-            cookingTimeResult(0,0);
+            cookingTimeResult(0, 0);
         }
 
         [TestMethod]
         public void Input_1_Should_Be_5()
         {
-            cookingTimeResult(5,1);
+            cookingTimeResult(5, 1);
         }
 
         [TestMethod]
         public void Input_2_Should_Be_5()
         {
-            cookingTimeResult(5,2);
+            cookingTimeResult(5, 2);
         }
 
-        private static void cookingTimeResult(int expected,int input)
+        private static void cookingTimeResult(int expected, int input)
         {
             //act
             var actual = Kata.CookingTime(input);
@@ -37,7 +37,11 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            return input * 5;
+            var result = 0;
+            var ceilNum = Math.Ceiling(Convert.ToDouble(input) / 5);
+            result = (int)ceilNum * 5;
+            return result;
         }
+
     }
 }
