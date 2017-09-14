@@ -37,11 +37,12 @@ namespace BoiledEggs
         }
 
         [TestMethod]
-        public void Input_11_Should_Be_15()
+        public void Input_11_Should_Be_10()
         {
-            cookingTimeResult(15,11);
+            cookingTimeResult(10,11);
         }
         
+
 
         private static void cookingTimeResult(int expected, int input)
         {
