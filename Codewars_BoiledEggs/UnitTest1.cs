@@ -35,7 +35,7 @@ namespace BoiledEggs
     {
         public static int CookingTime(int input)
         {
-            return 0;
+            return input * 5;
         }
     }
 }
