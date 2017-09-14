@@ -1,0 +1,12 @@
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Codewars_BoiledEggs.deps.json
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Codewars_BoiledEggs.runtimeconfig.json
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Codewars_BoiledEggs.runtimeconfig.dev.json
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Codewars_BoiledEggs.dll
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\bin\Debug\netcoreapp1.1\Codewars_BoiledEggs.pdb
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\obj\Debug\netcoreapp1.1\Codewars_BoiledEggs.csprojResolveAssemblyReference.cache
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\obj\Debug\netcoreapp1.1\Codewars_BoiledEggs.AssemblyInfo.cs
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\obj\Debug\netcoreapp1.1\Codewars_BoiledEggs.dll
+D:\ForDemo\TDD練習\Codewars.com\Codewars_BoiledEggs\Codewars_BoiledEggs\Codewars_BoiledEggs\obj\Debug\netcoreapp1.1\Codewars_BoiledEggs.pdb
