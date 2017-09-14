@@ -25,9 +25,15 @@ namespace BoiledEggs
         }
 
         [TestMethod]
-        public void Input_5_Should_5()
+        public void Input_5_Should_Be_5()
         {
             cookingTimeResult(5,5);
+        }
+
+        [TestMethod]
+        public void Input_10_Should_Be_10()
+        {
+            cookingTimeResult(10,10);
         }
 
         private static void cookingTimeResult(int expected, int input)
