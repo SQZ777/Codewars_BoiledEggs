@@ -18,6 +18,12 @@ namespace BoiledEggs
             cookingTimeResult(5,1);
         }
 
+        [TestMethod]
+        public void Input_2_Should_Be_5()
+        {
+            cookingTimeResult(5,2);
+        }
+
         private static void cookingTimeResult(int expected,int input)
         {
             //act
