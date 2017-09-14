@@ -59,10 +59,19 @@ namespace BoiledEggs
 
     public class Kata
     {
-        public static int CookingTime(int input)
+        public static int CookingTime(int eggs)
         {
-            return (int)Math.Ceiling(Convert.ToDouble(input) / 8) * 5;
+            var minutes = 5;
+            return CookTimes(eggs) * minutes;
         }
+
+        public static int CookTimes(int eggs)
+        {
+            var eggsPerPot = 8;
+            return (int) Math.Ceiling(Convert.ToDouble(eggs) / eggsPerPot);
+        }
+
+       
 
     }
 }
